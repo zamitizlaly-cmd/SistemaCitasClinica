@@ -1,0 +1,10 @@
+# Archivos compilados de java
+*.class
+
+# Archivos temporales (Vim/Editores)
+*.swp
+
+# Archivos de IntelliJ IDEA
+*.iml
+out/
+build/
